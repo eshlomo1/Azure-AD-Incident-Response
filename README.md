@@ -18,3 +18,8 @@ Note: the information will be updated continuously
 * [Hawk](https://github.com/T0pCyber/hawk)
 * [CRT](https://github.com/CrowdStrike/CRT)
 * [AzureADIncidentResponse](https://www.powershellgallery.com/packages/AzureADIncidentResponse/4.2)
+
+
+### Azure Sentinel 4 Azure AD IR 
+
+[Azure AD Incident Response Queries](https://github.com/eshlomo1/Azure-Sentinel-4-SecOps/tree/master/AAD-IR)
