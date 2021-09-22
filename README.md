@@ -1,5 +1,6 @@
 # Azure-AD-Incident-Response
-Azure AD Incident Response Tools, articles, tips, and useful information 
+
+Azure AD Incident Response life cycle and phases including tools, articles, tips, and useful information 
 
 ![Azure AD Incident Reponse Life Cycle](https://github.com/eshlomo1/Azure-AD-Incident-Response/blob/main/Diagram/AAD-IR-Life-Cycle-Security-Control.png)
 
