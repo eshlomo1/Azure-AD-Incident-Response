@@ -3,6 +3,8 @@
 #### Azure AD Incident Response life cycle and phases including tools, articles, tips, and useful information 
 Note: the information will be updated continuously
 
+*** The information in this repo is part of Azure Hacktive Directory content ***
+
 ![Azure AD Incident Reponse Life Cycle](https://github.com/eshlomo1/Azure-AD-Incident-Response/blob/main/Diagram/AAD-IR-Life-Cycle-Security-Control.png)
 
 ### Articles
