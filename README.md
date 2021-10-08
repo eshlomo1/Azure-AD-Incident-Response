@@ -6,11 +6,11 @@ Note: the information will be updated continuously
 *** The information in this repo is part of Azure Hacktive Directory content ***
 
 ![Azure AD Incident Reponse Life Cycle](https://github.com/eshlomo1/Azure-AD-Incident-Response/blob/main/Diagram/AAD-IR-Life-Cycle-Security-Control.png)
-![Azure AD Incident Response - The Builtin Tools](https://www.eshlomo.us/?p=12587&preview=true)
 
 ### Articles
 
 * [Azure AD Incident Response Life-Cycle and Process](https://www.eshlomo.us/?p=12500&preview=true)
+* [Azure AD Incident Response - The Builtin Tools](https://www.eshlomo.us/?p=12587&preview=true)
 
 ### Tools
 
