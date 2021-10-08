@@ -1,4 +1,4 @@
-# Azure-AD-Incident-Response
+# Azure AD Incident Response (AAD-IR)
 
 #### Azure AD Incident Response life cycle and phases including tools, articles, tips, and useful information 
 Note: the information will be updated continuously
