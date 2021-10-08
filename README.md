@@ -10,10 +10,10 @@ Note: the information will be updated continuously
 ### Articles
 
 * [Azure AD Incident Response Life-Cycle and Process](https://www.eshlomo.us/?p=12500&preview=true)
-* [Azure AD Incident Response - Builtin Investigtaion Tools]
-* [Azure AD Incident Response - PowerShell Investigtaion Tools]
-* [Azure AD Incident Response - M5 Investigtaion Tools]
-* [Azure AD Incident Response - Attack & Defense Scenario's]
+* Azure AD Incident Response - Builtin Investigtaion Tools
+* Azure AD Incident Response - PowerShell Investigtaion Tools
+* Azure AD Incident Response - M5 Investigtaion Tools
+* Azure AD Incident Response - Attack & Defense Scenario's
 
 ### Tools
 
